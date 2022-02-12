@@ -14,13 +14,13 @@
 5. Предметы должны иметь чётко выраженные границы
 
 ## Набор предметов
-![](./images/book.jpg)
-![](./images/check_book.jpg)
-![](./images/clock.jpg)
-![](./images/cup.jpg)
-![](./images/key.jpg)
-![](./images/lighter.jpg)
-![](./images/pen.jpg)
-![](./images/pin.jpg)
-![](./images/razor.jpg)
-![](./images/scissors.jpg)
+![](./images/items/book.jpg)
+![](./images/items/check_book.jpg)
+![](./images/items/clock.jpg)
+![](./images/items/cup.jpg)
+![](./images/items/key.jpg)
+![](./images/items/lighter.jpg)
+![](./images/items/pen.jpg)
+![](./images/items/pin.jpg)
+![](./images/items/razor.jpg)
+![](./images/items/scissors.jpg)
