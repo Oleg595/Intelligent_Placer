@@ -12,3 +12,15 @@
 3. Предметы должны располагаться на белом листе бумаги формата A4.
 4. На фото должны быть видны все предметы, а также края белого листа бумаги, на котором они располагаются.
 5. Предметы должны иметь чётко выраженные границы
+
+## Набор предметов
+![](./images/book.jpg)
+![](./images/check_book.jpg)
+![](./images/clock.jpg)
+![](./images/cup.jpg)
+![](./images/key.jpg)
+![](./images/lighter.jpg)
+![](./images/pen.jpg)
+![](./images/pin.jpg)
+![](./images/razor.jpg)
+![](./images/scissors.jpg)
