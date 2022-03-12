@@ -1,0 +1,1 @@
+from intelligent_placer_lib.intelligent_placer_module import intelligent_placer
